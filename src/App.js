@@ -1,10 +1,9 @@
 import './App.css';
-import Post from './Post.jsx';
+import Home from './pages/home/Home';
+
 function App() {
   return (
-    <div>
-      <Post />
-    </div>
+      <Home />
   );
 }
 
